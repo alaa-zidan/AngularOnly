@@ -1,0 +1,34 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "alaa",
+      "password": "asd123",
+      "email": "asd.com"
+    },
+    {
+      "id": 2,
+      "name": "sam",
+      "password": "123aaa",
+      "email": "a11.com"
+    },
+    {
+      "id": 4,
+      "name": "walaa",
+      "password": "awqw44",
+      "email": "www.com"
+    },
+    {
+      "name": "karam",
+      "email": "karam11.com",
+      "password": "123654789",
+      "id": 6
+    },
+    {
+      "name": "Omar",
+      "email": "omar.com",
+      "password": "asdfgh123",
+      "id": 7
+    }
+  ]
+}
